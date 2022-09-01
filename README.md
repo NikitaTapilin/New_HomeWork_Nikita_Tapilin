@@ -1,4 +1,6 @@
-#New_HomeWork for GeekBrains
-##by Nikita Tapilin
-
-There are all my homeworks. Thanks for watching.
+# __New homework for GeekBrains.__
+```
+There are all my homeworks. 
+Thanks for watchingand have a nice day!
+```
+_by Nikita Tapilin_
