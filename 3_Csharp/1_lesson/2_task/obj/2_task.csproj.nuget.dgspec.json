@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikita/Desktop/main/homeworks/Csharp/1_lesson/2_task/2_task.csproj": {}
+    "/Users/nikita/Desktop/main/homeworks/3_Csharp/1_lesson/2_task/2_task.csproj": {}
   },
   "projects": {
-    "/Users/nikita/Desktop/main/homeworks/Csharp/1_lesson/2_task/2_task.csproj": {
+    "/Users/nikita/Desktop/main/homeworks/3_Csharp/1_lesson/2_task/2_task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikita/Desktop/main/homeworks/Csharp/1_lesson/2_task/2_task.csproj",
+        "projectUniqueName": "/Users/nikita/Desktop/main/homeworks/3_Csharp/1_lesson/2_task/2_task.csproj",
         "projectName": "2_task",
-        "projectPath": "/Users/nikita/Desktop/main/homeworks/Csharp/1_lesson/2_task/2_task.csproj",
+        "projectPath": "/Users/nikita/Desktop/main/homeworks/3_Csharp/1_lesson/2_task/2_task.csproj",
         "packagesPath": "/Users/nikita/.nuget/packages/",
-        "outputPath": "/Users/nikita/Desktop/main/homeworks/Csharp/1_lesson/2_task/obj/",
+        "outputPath": "/Users/nikita/Desktop/main/homeworks/3_Csharp/1_lesson/2_task/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikita/.nuget/NuGet/NuGet.Config"
