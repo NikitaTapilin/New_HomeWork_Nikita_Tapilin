@@ -1,0 +1,15 @@
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/bin/Debug/net6.0/2_task
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/bin/Debug/net6.0/2_task.deps.json
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/bin/Debug/net6.0/2_task.runtimeconfig.json
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/bin/Debug/net6.0/2_task.dll
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/bin/Debug/net6.0/2_task.pdb
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.csproj.AssemblyReference.cache
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.AssemblyInfoInputs.cache
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.AssemblyInfo.cs
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.csproj.CoreCompileInputs.cache
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.dll
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/refint/2_task.dll
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.pdb
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/2_task.genruntimeconfig.cache
+/Users/nikita/Desktop/main/homeworks/3_Csharp/3_lesson/2_task/obj/Debug/net6.0/ref/2_task.dll
